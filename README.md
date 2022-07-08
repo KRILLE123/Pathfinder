@@ -1,2 +1,2 @@
 # Pathfinder
-found the worse path finder algorithm!
+found the worst path finder algorithm!
